@@ -29,7 +29,7 @@ An Arduino Nano board is used as controller. The four analog signals from the LD
 
 To facilitate the assembly of the electrical circuit (and eliminate the need to use a breadboard) we use an extension board for Arduino Nano.
 
-[![Solar tracker](https://github.com/magape/SolarTracker/blob/9dd4d127923d71d00038682b8efd73d441c11e0a/img/20220618_170026.jpg)]([https://youtu.be/Ywm-ZpFIKpw](https://youtu.be/WkN0v6vKtUE))
+[![Solar tracker](https://github.com/magape/SolarTracker/blob/9dd4d127923d71d00038682b8efd73d441c11e0a/img/20220618_170026.jpg)](https://youtu.be/WkN0v6vKtUE)
 
 
 ## Credits
