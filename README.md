@@ -31,7 +31,6 @@ To facilitate the assembly of the electrical circuit (and eliminate the need to 
 
 [![Solar tracker](https://github.com/magape/SolarTracker/blob/9dd4d127923d71d00038682b8efd73d441c11e0a/img/20220618_170026.jpg)](https://youtu.be/WkN0v6vKtUE)
 
-
 ## Credits
 
 The solar tracker was designed by [Mihai Agape](https://github.com/magape).
