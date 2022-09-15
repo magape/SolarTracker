@@ -11,8 +11,8 @@ The parts of the solar tracker can be seen in the next figure.
 
 <img src=https://github.com/magape/SolarTracker/blob/bdeee48374c2c4c5d911661432b44216edad3a6e/3D/img/solar_tracker_annotated_en.png title="Solar tracker parts" width=90%>
 
-The mechanical parts (solar tracker base, servos’ support, solar panel holding foot, solar panel support and shading cross) are 3D printed.
-The parts are assembled with M2 nuts, bolts, and washers.
+The mechanical parts (solar tracker base, servos’ support, solar panel holding foot, solar panel support and shading cross) are 3D printed using [stl files](https://github.com/magape/SolarTracker/tree/main/3D/stl).
+The parts are assembled with M2 nuts, bolts, and washers, according to the [pictures](https://github.com/magape/SolarTracker/tree/main/img) showing the step-by-step process.
 
 ## Electrical part
 
